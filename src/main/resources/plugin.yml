@@ -1,0 +1,7 @@
+name: LinkPlugin
+main: net.adminkse.linkPlugin.LinkPlugin
+version: 1.0-SNAPSHOT
+
+commands:
+  discord:
+    usage: /<command>
